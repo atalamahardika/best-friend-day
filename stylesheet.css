@@ -1,0 +1,54 @@
+/* === HEADER === */
+header {
+    background-color: black;
+    height: 100px;
+}
+
+.header-left {
+    float: left;
+    font-size: 30px;
+    line-height: 100px;
+    margin-left: 40px;
+    color: white;
+}
+
+.header-right {
+    float: right;
+    line-height: 100px;
+}
+
+.btn-wrapper {
+    font-size: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.about {
+    color:white;
+    margin-right: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+/* === MAIN === */
+.top-wrapper {
+    text-align: center;
+    background-color:whitesmoke;
+    height: 300px;
+}
+
+.heading {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
